@@ -11,7 +11,7 @@ FSM_MODE=memory
 # Redis connection string (DSN)
 # REDIS=redis://user:pass@host:port
 # or
-# REDIS=redis-14418.c276.us-east-1-2.ec2.redns.redis-cloud.com:14418
+REDIS=redis-14418.c276.us-east-1-2.ec2.redns.redis-cloud.com:14418
 # or whatever your settings are
 
 # Language to use in bot. Check locales folder for
