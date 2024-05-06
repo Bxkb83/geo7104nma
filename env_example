@@ -16,7 +16,7 @@ REDIS=redis-14418.c276.us-east-1-2.ec2.redns.redis-cloud.com:14418
 
 # Language to use in bot. Check locales folder for
 # information how to use your own locale
-BOT_LANGUAGE=tr
+BOT_LANGUAGE=en
 
 # Starting points for your game.
 # If not set, value 50 is used
