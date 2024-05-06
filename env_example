@@ -3,7 +3,7 @@
 # uncomment them if needed
 
 # Get your bot token from https://t.me/botfather
-BOT_TOKEN=123456789:abcdefghijklmnopqrstuvwxyz
+BOT_TOKEN=7149969438:AAHRq2jj6YFEmDXoWl89TrjzKZAzZeMMsw4
 
 # FSM Mode. Possible options: memory, redis
 FSM_MODE=memory
